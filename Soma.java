@@ -18,5 +18,6 @@ public class Soma {
     }
 }
 
+// Teste de push com nova máquina
 // O javac compila o código-fonte .java e gera o bytecode .class somente naquele momento.
 // Se você mudar o código e não compilar de novo, o .class antigo ainda será executado.
